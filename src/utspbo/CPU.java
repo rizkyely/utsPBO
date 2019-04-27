@@ -10,6 +10,7 @@ package utspbo;
  * @author Rizky Ely
  */
 public class CPU {
+     
     public String nama;
     public int kecepatan;
     
